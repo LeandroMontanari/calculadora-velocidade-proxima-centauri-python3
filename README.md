@@ -1,4 +1,4 @@
-# Calculadora de Velocidade para Proxima Centauri em Python 3
+# Calculadora de Velocidade pra Proxima Centauri em Python 3
 
 Execute o arquivo "iniciar.bat" para iniciar o programa no prompt de comando do Windows. É necessário ter o Python 3 instalado. Faça o download aqui: https://www.python.org/downloads/
 
